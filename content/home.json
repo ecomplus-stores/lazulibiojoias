@@ -3,10 +3,6 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "dynamic-showcase",
-      "load_more": true
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
@@ -38,6 +34,10 @@
       "limit": 12,
       "page": 1,
       "collection_id": "61be1f6b0c7c727225d5630b:collections:Deusa Lazúli:/deusa-lazuli"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true
     }
   ]
 }
