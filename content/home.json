@@ -15,10 +15,6 @@
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "626ea37a3da6d37bc2182d66:collections:Fada Real:/fada-real",
@@ -34,6 +30,10 @@
       "limit": 12,
       "page": 1,
       "collection_id": "61be1f6b0c7c727225d5630b:collections:Deusa Lazúli:/deusa-lazuli"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
