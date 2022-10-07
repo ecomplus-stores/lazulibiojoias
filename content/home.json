@@ -34,10 +34,6 @@
       "limit": 12,
       "page": 1,
       "collection_id": "61be1f6b0c7c727225d5630b:collections:Deusa Lazúli:/deusa-lazuli"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true
     }
   ]
 }
