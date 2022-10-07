@@ -1,7 +1,7 @@
 {
   "domain": "lazulibiojoias.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#fce2af",
+  "primary_color": "#222253",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -17,7 +17,7 @@
   "favicon": "/img/uploads/icone-preto-png.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#222253",
+  "secondary_color": "#fce2af",
   "icon": "/img/uploads/icone-1.jpg",
   "store_id": 19182,
   "description": "lazulibiojoias",
