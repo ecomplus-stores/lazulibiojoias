@@ -17,7 +17,7 @@
     "title": "Contatos",
     "phone_wpp": true,
     "socials": true,
-    "email": true,
+    "email": false,
     "address": true
   },
   "stamps": [
@@ -27,7 +27,7 @@
     }
   ],
   "payment_methods": {
-    "bb": true,
+    "bb": false,
     "visa": true,
     "boleto": true,
     "aura": false,
@@ -35,12 +35,12 @@
     "elo": true,
     "hipercard": false,
     "hsbc": false,
-    "bradesco": true,
+    "bradesco": false,
     "santander": false,
     "mastercard": true,
     "citibank": false,
     "mais": false,
-    "itau": true
+    "itau": false
   },
   "credits": ""
 }
