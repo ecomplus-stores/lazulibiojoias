@@ -2,11 +2,12 @@
   "marketing_stripe": {
     "text": "Utilize o CUPOM LZL30 nas compras acima de 249,00 para ter 30 reais de desconto no frete",
     "link": "",
-    "color": "#0e7791"
+    "color": "#0e7791",
+    "background": "#499881"
   },
   "contacts_stripe": {
     "pages": [],
-    "phone_wpp": true,
+    "phone_wpp": false,
     "socials": true
   },
   "categories_list": {
@@ -17,5 +18,5 @@
   "desktop_megamenu": false,
   "search_input": true,
   "alphabetical_order_submenu": false,
-  "full_width_submenu": false
+  "full_width_submenu": true
 }
