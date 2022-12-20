@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.78493abfe40b67489ac7f7081bac6dab.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.76b546a9946a069f52894df94d82e024.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.8617ed3a4550515e70411c9689383496.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.3168be8e4000a0e9dca09dbc9395d5c0.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.5d92ec8509501056e2bab7160a040c1a.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "LAZULI BIOJOIAS",
+  "short_name": "lazulibiojoias",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "lazulibiojoias",
+  "background_color": "#ffffff",
+  "theme_color": "#222253"
+}
